@@ -1,6 +1,7 @@
 # pxTest
  android屏幕适配的两种方式：
  1. android官网上介绍了一种多屏幕适配的尺寸单位dp/dip
+
  > px = dp*(dpi/160)其中dpi是设备屏幕的密度，不同的设备dpi不同
 
 谷歌对dpi做了以下分类
